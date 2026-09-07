@@ -1,0 +1,20 @@
+{
+  "name": "open_contact_form",
+  "description": "Open a project enquiry form when the visitor asks to contact a person or discuss a project. This only opens the form. It does not save a lead, send email, or book a meeting. Never collect email addresses in chat; the visitor enters details in the form.",
+  "provider": "AI Concept Lab",
+  "schema": {
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "interest": {
+          "type": "string",
+          "description": "Optional short project topic already mentioned by the visitor. Do not include personal contact details."
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "config": {
+    "type": "client"
+  }
+}

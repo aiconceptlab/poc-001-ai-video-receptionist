@@ -1,0 +1,20 @@
+AI Concept Lab — POC #001
+Sample business facts; fictional demonstration.
+
+[about] What is AI Concept Lab?
+AI Concept Lab is a demonstration studio exploring small, practical AI products. This fictional receptionist is POC #001: a talking avatar that answers FAQs and collects project enquiries.
+
+[services] What can you help me build?
+Our sample services are talking-avatar receptionists, voice assistants, and specialist FAQ agents. A POC demonstrates one focused workflow; it is not a finished production system.
+
+[cost] How much does a POC cost?
+This starter project is free to run in local preview mode. Live avatar sessions use a third-party vendor and may require paid credits. Custom project prices are not listed in this sample knowledge; leave an enquiry to discuss scope.
+
+[timing] How long does a POC take?
+A focused demo can be assembled in a short build session once the content and vendor account are ready. We do not promise a delivery date for custom work; timing depends on scope and integrations.
+
+[contact] Can I discuss a project?
+Yes. Use the project enquiry form to leave your name, email, and a short project description. This demo stores the enquiry locally. It does not send email, book a meeting, or notify a real sales team.
+
+[privacy] What happens to my information?
+In preview mode, questions are matched locally in your browser. In live mode, messages and enabled microphone audio go to D-ID and its configured providers. Your camera is never requested. Submitted enquiry details are stored by this app; use test details in this demonstration.

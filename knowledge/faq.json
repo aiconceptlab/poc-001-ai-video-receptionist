@@ -1,0 +1,55 @@
+[
+  {
+    "id": "about",
+    "question": "What is AI Concept Lab?",
+    "keywords": ["what is ai concept lab", "about", "who are you"],
+    "answer": "AI Concept Lab is a demonstration studio exploring small, practical AI products. This fictional receptionist is POC #001: a talking avatar that answers FAQs and collects project enquiries."
+  },
+  {
+    "id": "services",
+    "question": "What can you help me build?",
+    "keywords": ["services", "build", "products", "offer", "help"],
+    "answer": "Our sample services are talking-avatar receptionists, voice assistants, and specialist FAQ agents. A POC demonstrates one focused workflow; it is not a finished production system."
+  },
+  {
+    "id": "cost",
+    "question": "How much does a POC cost?",
+    "keywords": ["cost", "price", "pricing", "free", "budget"],
+    "answer": "This starter project is free to run in local preview mode. Live avatar sessions use a third-party vendor and may require paid credits. Custom project prices are not listed in this sample knowledge; leave an enquiry to discuss scope."
+  },
+  {
+    "id": "timing",
+    "question": "How long does a POC take?",
+    "keywords": ["how long", "time", "timeline", "delivery", "days"],
+    "answer": "A focused demo can be assembled in a short build session once the content and vendor account are ready. We do not promise a delivery date for custom work; timing depends on scope and integrations."
+  },
+  {
+    "id": "contact",
+    "question": "Can I discuss a project?",
+    "keywords": [
+      "contact",
+      "enquiry",
+      "inquiry",
+      "discuss",
+      "human",
+      "book",
+      "demo",
+      "call",
+      "email"
+    ],
+    "answer": "Yes. Use the project enquiry form to leave your name, email, and a short project description. This demo stores the enquiry locally. It does not send email, book a meeting, or notify a real sales team."
+  },
+  {
+    "id": "privacy",
+    "question": "What happens to my information?",
+    "keywords": [
+      "privacy",
+      "data",
+      "information",
+      "stored",
+      "record",
+      "camera"
+    ],
+    "answer": "In preview mode, questions are matched locally in your browser. In live mode, messages and enabled microphone audio go to D-ID and its configured providers. Your camera is never requested. Submitted enquiry details are stored by this app; use test details in this demonstration."
+  }
+]
